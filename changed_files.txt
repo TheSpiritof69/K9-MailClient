@@ -7,6 +7,7 @@ message_view_attachment
 message_compose
 message_compose_recipients
 message_compose_attachment
+message_list_widget_layout
 helper html_converter
 
 folder_list_item

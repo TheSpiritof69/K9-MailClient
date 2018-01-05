@@ -6,6 +6,8 @@ import android.graphics.Path;
 import android.util.AttributeSet;
 import android.widget.QuickContactBadge;
 
+import com.fsck.k9.ui.ContactBadge;
+
 import java.lang.reflect.Field;
 
 /**
@@ -13,7 +15,7 @@ import java.lang.reflect.Field;
  * @author kishu27 (http://linkd.in/1laN852)
  *
  */
-public class RoundedQuickContactBadge extends QuickContactBadge {
+public class RoundedQuickContactBadge extends ContactBadge {
 
     /**
      * This path is used to mask out the outer edges of a circle on this View
