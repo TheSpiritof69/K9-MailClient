@@ -56,8 +56,8 @@ android {
         applicationId "com.fsck.k9.material"
         testApplicationId "com.fsck.k9.tests"
 
-        versionCode 24008
-        versionName '5.401'
+        versionCode 24010
+        versionName '5.403'
 
         minSdkVersion 21
         targetSdkVersion 22
